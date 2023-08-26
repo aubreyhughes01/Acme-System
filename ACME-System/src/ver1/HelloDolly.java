@@ -6,5 +6,9 @@ public class HelloDolly {
 		System.out.println("Person 2 is at work!");
 
 	}
+	
+	public static void whatFor(String input) {
+		System.out.println(input + ", what for?");
+	}
 
 }
